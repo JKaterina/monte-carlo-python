@@ -1,6 +1,5 @@
 import numpy as np
 import math
-import matplotlib.pyplot as plt
 
 # Function to calculate the option payoff based on option type
 def calculate_option_payoff(option_type, stock_price, strike_price):
