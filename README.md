@@ -2,6 +2,8 @@
 
 This project provides a Python script to perform Monte Carlo simulations for option pricing. It's especially useful for complex options with various features and payoffs. Additionally, the project includes a Streamlit web app for visualizing the results. The final result is deployed as [Monte Carlo Option Pricing Web App](https://monte-carlo-python-dt2dhksgf6cyltzm3seiad.streamlit.app/)
 
+Feel free to follow [this Medium article](https://medium.com/python-in-plain-english/mastering-financial-engineering-from-python-simulations-to-interactive-apps-3b5975ffa48c) for detailed instructions.
+
 ## Features
 
 - Monte Carlo simulation for option pricing.
